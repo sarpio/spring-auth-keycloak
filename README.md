@@ -1,5 +1,5 @@
 # AUTHENTICATION AND AUTHORISATION USING KEYCLOAK WITH SPRING BOOT
-## Sampe of use keycloak
+## Sample use keycloak with spring boot
 ___
 
 ## Default settings for keycloak
