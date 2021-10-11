@@ -2,10 +2,15 @@
 ## Sample use keycloak with spring boot
 ___
 
-## Default settings for keycloak
-1. PORT: 8000
-2. Admin: sarpio
-3. Admin password: sarpio
+## Default settings
+| No | Property          | Value  |
+|----|-------------------|--------|
+| 1. | Keycloak PORT:    | 8000   |
+| 2. | Application PORT: | 8080   |
+| 3. | Keycloak Admin:   | sarpio |
+| 4. | Keycloak password:| sarpio |
+
+## Defa
 
 ## Two accounts defined
 
